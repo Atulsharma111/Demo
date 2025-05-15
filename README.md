@@ -1,4 +1,4 @@
 # Demo
 this is my first git repo
 <br>
-Author - Atul sharma
+Author - Atul (kumar)
